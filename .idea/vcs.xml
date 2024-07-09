@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/ANGLE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/abseil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/asio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/cli11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/flatbuffers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/fmt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/freetype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/freetype/subprojects/dlg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/glslang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/google-benchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/harfbuzz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/lua" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/lz4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/sol" vcs="Git" />
+  </component>
+</project>
